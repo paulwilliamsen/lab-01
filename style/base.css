@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+div {
+  box-sizing: border-box;
+  border: 2px solid white;
+  vertical-align: middle;
+}
+
+@media (min-width: 768px ) 
+{
+* {
+    background-color: #333333;
+    max-width: 960px;
+    margin: 0 auto;
+
+
+}
+}

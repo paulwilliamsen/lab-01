@@ -1,0 +1,131 @@
+
+
+#a {
+  width: 100%;
+  height: 75px;
+  line-height: 75px;
+  
+}
+#b {
+  width: 100%;
+  height: 150px;
+  line-height: 150px;
+}
+#c {
+  width: 100%;
+  height: 125px;
+  line-height: 125px;
+}
+#d {
+  width: 100%;
+  height: 125px;
+  line-height: 125px;
+}
+#e {
+  width: 50%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+  
+}
+#f {
+  width: 50%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+}
+#g {
+  width: 50%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+}
+#h {
+  width: 50%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+}
+#i {
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+}
+
+
+@media (min-width: 768px ) 
+{
+#a {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+}
+
+#b {
+  height: 600px;
+  width: 20%;
+  float: left;
+  line-height: 600px;
+}
+
+#cd {
+  float: left;
+  width: 80%;
+  height: 100%;
+  
+}
+
+#c {
+  width: 50%;
+  height: 200px;
+  float: left;
+  line-height: 200px;
+
+}
+#d {
+  width: 50%;
+  height: 200px;
+  float: left;
+  line-height: 200px;
+  
+}
+
+#e {
+  width: 20%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+
+  
+}
+#f {
+  width: 20%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+  
+}
+#g {
+  width: 20%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+
+  
+}
+#h {
+  width: 20%;
+  height: 250px;
+  float: left;
+  line-height: 250px;
+  
+}
+
+#i {
+  float: left;
+  width: 80%;
+  height: 150px;
+  line-height: 150px;
+}
+
+}
