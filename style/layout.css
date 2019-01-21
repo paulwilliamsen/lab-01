@@ -59,11 +59,13 @@
 @media (min-width: 768px) {
   body {
   margin: 0px auto;
-  max-width: 960;
+  max-width: 960px;
   }
   #wrapper {
     grid-template-columns: 200px 190px 190px 190px 190px;
     grid-template-rows: 100px 200px 250px 150px;
+    margin: 0px auto;
+    max-width: 960;
   }
 
   #a {
